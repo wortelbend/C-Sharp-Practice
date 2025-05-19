@@ -1,4 +1,6 @@
-﻿interface IPrice
+﻿using System;
+
+interface IPrice
 {
     double GetPrice();
 }
